@@ -1,0 +1,1 @@
+    <?php customizer_test_display_related_posts(); ?>
