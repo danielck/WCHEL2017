@@ -15,10 +15,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info row columns">
-			<p><?php
-				$my_address = get_theme_mod( 'address', 'Default Address 123' );
-				echo esc_html( $my_address );
-			?></p>
+			<p>My Address 123</p>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
